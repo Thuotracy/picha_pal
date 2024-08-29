@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a website for a company that builds robust and scalable web applications to support any business process, from e-commerce and school applications to encrypted fraud reporting systems and complex data visualisations.
+Pichapal is a platform that allows you print your portrait photos with ease, and at a very affordable price from our very quality printing providers near you. We also offer opportunities for individuals to easily hire photographers to cover events.
 
 ## Technologies Used
 * HTML
