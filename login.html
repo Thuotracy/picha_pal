@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/about.css">
+    <title>Document</title>
+</head>
+
+<style>
+    body {
+        background-color: blueviolet;
+    }
+
+    form {
+        background-color: white;
+        box-shadow: 2px 2px 8px -1px rgba(0,0,0,0.75);
+        -webkit-box-shadow: 2px 2px 8px -1px rgba(0,0,0,0.75);
+        -moz-box-shadow: 2px 2px 8px -1px rgba(0,0,0,0.75);
+        width: 30%;
+        border-radius: 10px;
+        margin-left: 35%;
+        margin-top: 15%;
+        padding: 20px;
+    }
+
+    input {
+        padding: 2%;
+        margin-bottom: 2%;
+        margin-left: 25%;
+        margin-top: 5%;
+        width: 50%;
+        border: none;
+        border-radius: 5px;
+        background-color: rgb(244, 252, 255);
+    }
+
+    .form-actions {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-left: 25%;
+        width: 50%;
+        padding-top: 10px;
+    }
+
+    button {
+        padding: 4%;
+        width: 100px;
+        background-color: green;
+        border-radius: 5px;
+        border: none;
+        color: white;
+        cursor: pointer;
+        margin-top: 6%;
+        margin-right: -10%;
+        font-size: 18px;
+        /* padding-left: 5%; */
+    }
+
+    p {
+        color: blue;
+        margin: 0;
+    }
+</style>
+
+<body>
+    <form action="">
+        <h1 style="text-align: center;">Login in to PichaPal</h1>
+        <p style="color: black; text-align: center;">Dont have an accouny yet? <span style="color: blue; cursor: pointer;"><a href="sign_up.html">Sign Up!</a></span></p>
+        <div class="form-group">
+            <input type="email" id="email" name="email" placeholder="Phone Number or Email Address" required>
+        </div>
+        
+        <div class="form-group">
+            <input type="password" id="password" name="password" placeholder="Password" required>
+        </div>
+
+        <div class="form-actions">
+            <p>forgot password?</p>
+            <button type="submit">Login</button>
+        </div>
+    </form>
+</body>
+</html>
