@@ -1,4 +1,4 @@
-## REGULUS
+## PICHAPAL
 
 ## Description
 
