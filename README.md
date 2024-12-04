@@ -1,5 +1,4 @@
 ## PICHAPAL
-
 ## Description
 
 Pichapal is a platform that allows you print your portrait photos with ease, and at a very affordable price from our very quality printing providers near you. We also offer opportunities for individuals to easily hire photographers to cover events.
